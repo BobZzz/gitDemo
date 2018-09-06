@@ -4,5 +4,5 @@ console.log("test02");
 console.log("test03");
 console.log("新的修改");
 console.log("feature1");
-var a="first modify"
-
+var a="first modify";
+var b='hotfix';
